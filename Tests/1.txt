@@ -1,0 +1,19 @@
+                                    TEST - 1
+
+1. WAP to create a calculator with +, -, *, /, ^.
+
+2. WAP to calculate SI and CI based on given P, R, T, compounded annually.
+
+3. WAP to print 'N' random numbers in a given range.
+
+4. WAP to swap 2 integers without third variable.
+
+5. Print the following pattern assuming that : N % 2 = 1 and 3 <= N <= 50
+
+                                    *
+                                   * *
+                                  *   *
+                                 *     *        Here, N = 7, i.e., the 7 rows.
+                                  *   *
+                                   * *
+                                    *

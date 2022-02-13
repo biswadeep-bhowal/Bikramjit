@@ -1,0 +1,80 @@
+                            ASSIGNMENT - 2 : WORKING WITH ARRAYS
+
+Note : Kindly use the following snippets in your code : 
+
+            int* arr = new int[ n ];        // MEMORY ALLOCATION
+            delete[] arr;                   // MEMORY DEALLOCATION
+
+Note : To save time on u-i/p array testing, you can use the random function to generate the array, based on the given range.
+
+
+1. WAP to take u-i/p of an array and display it.
+
+2. WAP to print the Maximum and Minimum elements in a u-i/p array;
+
+3. WAP to print the Mean of a u-i/p array.
+
+4. Take an integer array as u-i/p. Perform Bubble Sort on it. Then implement Binary Search.
+   Use Iterative approach for both functions.
+
+5. WAP to perform CRUD operations on an array.
+    Also write functions to rotate the array Clockwise and Anticlockwise.
+
+6. Sumegh is a teacher at Whitehat Jr. 
+   While manually performing Data Entry for the marks obtained by students in the recent exam he makes errors, owing to his failing marriage.
+   Sumegh enters the marks into an array. Every element he enters is accidentally incremented by him by the corresponding position of that element.
+   
+   For Example, Let arr = 100, 69, 91, 72, 88
+        Then, corrected arr = 99, 67, 88, 68, 83.
+
+    Print the corrected array for u-i/p.
+
+7. WAP to check if an array is a Palindrome.
+
+8. After his wife left him, Sumegh started dating older women in the hopes finding love once again.
+    Every night Sumegh sleeps with a cougar, who then rates his performance out of 10.
+    Store the performance ratings of 'N' women into an array and determine whether that array forms a Binary, Octal or Decimal number ;)
+    Do note that Sumegh is incapable of Hexadecimal Performances!
+
+9. Delete duplicate elements in a u-i/p array.
+
+10. Combine 2 u-i/p arrays into one in sorted order.
+
+11. Given an array of strings and an array of integers.
+    The Strings are the names of cougars and the Integers are the corresponding Ratings.
+
+    For Example, Name[ 0 ] gives a rating of Rating[ 0 ].
+
+    Print the name(s) of the woman/women that are most displeased with Sumegh.
+
+12. The irony of life has brought Sumegh and Arjun together.
+    Arjun is engaged to Draupadi while Sumegh is fucking her mother.
+    Given a u-i/p array of performance ratings, where odd indexes correspond to Sumegh and even indexes correspond to Arjun.
+
+    Find out who is better in bed on average. 
+
+13. It seems Karma has caught up with Medha, who is currently struggling with hairfall.
+    For a given day, she either loses some hair, or gains some.
+    Given an integer array where hairloss is negative and hair gain is positive. 
+    
+    Determine whether Medha will go bald, or continue screwing over men.
+
+14. Debjit has joined C4 to improve his performance in the Gentleman's Game.
+    Seeing his improvement, Bikram on the other hand has bought a Bowling Machine to preserve his reputation.
+
+    Debjit has to pay Rs. x everyday for C4 while Bikram bought the Machine for Rs. Y ( u-i/p ), and spend Rs. z everyday on electricity everyday.
+    Rs. x and Rs. z values fluctuate everday, so they are stored in 2 separate arrays.
+
+    Find out who spends more to caress their ego.
+
+
+15. Divide an integer array into palindromes and print them.
+    
+    For example : 
+            Input : 1 2 1 3 4 5 1 5 4 
+            Output : 1 2 1
+                     3
+                     4 5 1 5 4
+
+    Minimise the number of palindromes.
+

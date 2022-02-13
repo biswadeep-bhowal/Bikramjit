@@ -1,0 +1,99 @@
+                    ASSIGNMENT - 1 : Getting A Hang of It!
+
+1) WAP to print "Hello, World!"
+
+2) WAP to take user input of all primitive data types in c++ and print them.
+
+3) WAP to add two integers, with user input.
+
+4) WAP to mimick a calculator with - +, -, *, / and ^ functionalities.
+    Kindly user switch case.
+
+5) WAP to calculate the sum of first N natural numbers, where N is u-i/p    ( u-i/p : user input )
+
+6) WAP to convert Celsius to Fahrenheit and vice versa.
+
+7) WAP to swap 2 variables : 
+   (i) With a Third Variable.
+   (ii) Without a Third Variable.
+   (iii) With Bitwise Operators.
+
+   Write all the 3 Code Blocks inside the main function, respectively.
+
+8) Print the first N natural numbers using for, while and do-while Loops.
+
+9) Take an integer as u-i/p. Now Check for : 
+   (i) Odd / Even
+   (ii) Positive / Negative
+   (iii) Prime
+   (iv) Automorphic
+   (v) Armstrong
+   (vi) Magic
+   (vii) Palindrome
+   (viii) Leap Year
+
+10) WAP to calculate Simple Interest for u-i/p of Principal( Rs ), Rate( % ) and Time( years ).
+	Use the double / float data type here.
+
+11) WAP to calculate Compound Interest for u-i/p of Principal( Rs ), Rate( % ) and Time( years ).
+	Calculate for Compounded : 
+	(i) Yearly
+	(ii) Half - Yearly
+	(iii) Quarterly
+	(iv) Monthly
+	(v) Fortnightly
+
+12) Consider a currency system in which there are notes of 6 Denominations, namely, Re.1, Rs.2, Rs.5, Rs.10, Rs.50 and Rs.100.
+	For a sum of Rs.N ( u-i/p ),  WAP to compute the smallest number of notes that will combine to give Rs.N
+
+13) WAP that reads three coordinates as u-i/p and checks whether these numbers can be considered as the three vertices of a triangle.
+	If the vertices can form a triangle, then find the type of the triangle and the area of the triangle.
+
+14) Print the Fibonacci Series upto N terms.
+	Minimum value of N is 1.
+
+15) Print the following patterns based on u-i/p :
+
+   (i)      *****
+                  
+   (ii)     *****
+            *****
+            *****
+            *****
+            *****
+
+   (iii)    *****
+            *   *
+            *   *
+            *   *
+            *****
+
+   (iv)     *
+            **
+            ***
+            ****
+            *****
+
+   (v)      *****
+             ****
+              ***
+               **
+                *
+
+   (vi)        *
+              ***
+             *****
+            *******
+           *********
+
+   (vii)   *********
+            *******
+             *****
+              ***
+               *
+
+   (viii)   *****
+            ** **
+            *   *
+            ** **
+            *****
