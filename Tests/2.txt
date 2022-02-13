@@ -47,6 +47,8 @@
         @@@@@
         ######
 
+    Hint : Use the % operator if you can, as only 3 symbols are being used.
+
 8.  WAP to rotate an array Clockwise 'K' times.
 
 9.  WAP to check armstrong number.
