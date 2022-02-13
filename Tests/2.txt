@@ -1,0 +1,56 @@
+                        TEST - 2                                                            F.M. : 10, TIme : 2 hours
+
+1.  Based on u-i/p of N, i.e., the no. of rows and 1 <= N <= Infinity, print the following pattern : 
+
+                1
+                1 2
+                1 2 3       N = 5
+                1 2 3 4
+                1 2 3 4 5
+
+2.  ITC is the hottest stock in the market right now. However, owing to current macro-economic and micro-economic factors, 
+    THe share price turns volatile. 
+    
+    Given an array of 'N' prices at which ITC was trading, find out the best times to buy and sell the stock.
+    Simply print the corresponding indexes.
+
+3.  Given an array, find the Mean, Median and Mode.
+
+4.  WAP to convert a given time in seconds into hours, minutes and seconds.
+    Print it in HH:MM:SS format.
+
+5.  WAP to assign Grades according to marks obtained in Maths, English, Computer, Science, Social Science and Second Lamguage.
+    Print all the grades and also print the Final Aggregate Percentage along with the corresponding Grade.
+
+6.  Being a very Consumerist Individual, Parambrata receives substantial electricity bills.
+    Calculate his bill for a given kWH usage, according to the following rates : 
+
+    0 - 99 kWH : Rs. 250 per kWH
+    100 - 199 kWH : Rs. 1000 per kWH plus previous rate brackets
+    200 - 499 kWH : Rs. 1500 per kWH plus previous rate brackets
+    500 - 999 kWH : Rs. 2000 per kWH plus previous rate brackets
+
+    ALso, GST is charged @ 18% of the total rate mentioned above.
+
+    E.g. : I/P : 550 kWH.
+
+        So, Bill AMount = Rs. ( 99*250 + 100*1000 + 299*1500 + 51*2000 ) * 1.18
+
+    If Parambrata has an electricity bill of 1000 kWH and beyond, print "Urbana Material".
+
+7.  Based on u-i/p of N, i.e., the no. of rows and 1 <= N <= Infinity, print the following pattern : 
+
+        !
+        @@
+        ###
+        !!!!        N = 6
+        @@@@@
+        ######
+
+8.  WAP to rotate an array Clockwise 'K' times.
+
+9.  WAP to check armstrong number.
+
+10. As luck would have it, Abhishek falls in love with Medha. WHenever they go on dates, either one fo them pays for the entire meal, alternatively.
+    Given an array of 'N' expenses, where odd indices are paid by Medha And even indices are paid by Abhishek.
+    Find out who paid more ;)
