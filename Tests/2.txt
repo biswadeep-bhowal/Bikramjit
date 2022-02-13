@@ -14,6 +14,8 @@
     Given an array of 'N' prices at which ITC was trading, find out the best times to buy and sell the stock.
     Simply print the corresponding indexes.
 
+    Hint : Remember that traders Buy Low and Sell High!
+
 3.  Given an array, find the Mean, Median and Mode.
 
 4.  WAP to convert a given time in seconds into hours, minutes and seconds.
