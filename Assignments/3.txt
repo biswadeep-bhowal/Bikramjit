@@ -1,0 +1,45 @@
+                                        ASSIGNMENT - 3 : WORKING WITH MATRICES
+
+Note : You can generate matrices using the random funciton in c++
+
+1.  WAP to take u-i/p of a matrix and print it.
+
+2.  WAP to find out the maximum and minimum element in every row, column and diagonal in a given matrix.
+
+3.  WAP to print the sum of every row, column and diagonal of a matrix.
+
+4.  WAP to add, subtract and multiply 2 matrices.
+
+5.  WAP to find siddle point in a matrix. If not present, print so.  
+
+6.  WAP to check the following : 
+
+    (i)     Identity Matrix
+    (ii)    Diagonal Matrix
+    (iii)   Scalar Matrix
+    (iv)    Null Matrix
+    (v)     Equality of 2 Matrices
+    (vi)    Row and Column Matrix
+    (vii)   Symmetrix Matrix
+    (viii)  Upper and Lower Triangular Matrix
+
+
+7.  WAP to calculate Transpose of a matrix.
+
+8.  WAP to calculate Determinant of a 2x2 and a 3x3 matrix.   Note that Determinant of any Identity Matrix is 1.
+
+9.  After a failing courtship with Draupadi's mother, Sumegh decided to leave all earthly pleasures and join the Taliban in Afghanistan.
+    Little did he know at the time that his dick would be endangered just to initiate his commitment to Jihad.
+
+    Sumegh is now fleeing Afghanistan. Given a 10x10 Binary Matrix that represents Kabul, help Sumegh escape the country.
+    kabul[ 0 ][ 0 ] represents Sumegh's position. kabul[ 9 ][ 9 ] represents the Duran Line which borders Pakistan.
+    Help Sumegh reach Pakistan.
+
+    Sumegh can only travel through the 1s in the matrix. The 0s represent Talibanis searching for him.
+
+    If saving Sumegh is impossible, print so.
+    If it is possible to save him, print the path he takes and the number of steps required.
+
+10. WAP to swap the second and second-last column of a matrix.
+    Do the same for the rows.
+
